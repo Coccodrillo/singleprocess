@@ -11,14 +11,14 @@ It uses Mitchel Hashimoto's go-ps. I have only tested it on "darwin" and "linux"
 Install using standard `go get`:
 
 ```
-$ go get github.com/coccodrillo/singleprocess
+$ go get github.com/Coccodrillo/singleprocess
 ```
 
 Usage:
 ```
 import (
 	...
-	"github.com/coccodrillo/singleprocess"
+	"github.com/Coccodrillo/singleprocess"
 	...
 )
 
