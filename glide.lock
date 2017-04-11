@@ -1,0 +1,6 @@
+hash: 3bb9079d0b38c759cd29fd4c2c2a6b269b25d2fd599b4ab34324b7ee3e62c07a
+updated: 2017-04-11T10:13:03.311858398-07:00
+imports:
+- name: github.com/mitchellh/go-ps
+  version: 4fdf99ab29366514c69ccccddab5dc58b8d84062
+testImports: []
